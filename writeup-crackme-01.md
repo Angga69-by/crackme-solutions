@@ -22,3 +22,4 @@ if (strcmp(input_user, "AmikomRE2026") == 0) {
 } else {
     printf("Serial Number Salah, Coba Lagi!");
 }
+
