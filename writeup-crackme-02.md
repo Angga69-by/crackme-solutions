@@ -23,3 +23,4 @@ $$Input \times 2 = 2000$$
 $$Input = \frac{2000}{2} = 1000$$
 
 * **Kesimpulan:** PIN rahasia yang harus dimasukkan agar program sukses melakukan bypass adalah **`1000`**.
+
